@@ -1,0 +1,13 @@
+.row.first {
+  padding-top: 250px;
+}
+
+.row {
+  padding-bottom: 50px;
+  padding-left: 10px;
+}
+
+.container {
+  font-family: "daxlight", Arial, sans-serif;
+  font-size: 20px;
+}
